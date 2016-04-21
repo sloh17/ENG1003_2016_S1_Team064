@@ -1,12 +1,16 @@
 Austin Loh 
 
-Miles Young 
+Miles Young is awesome
 
-Laurence Chim 
+Laurence Chim ^^^
 
 Matt Galbraith
 
 
 asdsa
 
+<<<<<<< HEAD
 abcdef
+=======
+hello
+>>>>>>> origin/master
