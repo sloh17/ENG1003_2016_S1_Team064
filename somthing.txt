@@ -2,9 +2,23 @@ Austin Loh
 
 Miles Young 
 
-Laurence Chim ^^^
+Laurence Chim
 
-Matt Galbraith
+Matt Galbraith ...
 
 
+<<<<<<< HEAD
 asdsa austin sucks
+=======
+<<<<<<< HEAD
+asdsa
+
+<<<<<<< HEAD
+abcdef
+=======
+hello
+>>>>>>> origin/master
+=======
+asdsa
+>>>>>>> origin/master
+>>>>>>> origin/master
